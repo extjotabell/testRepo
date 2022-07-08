@@ -1,2 +1,3 @@
 # testRepo
-#Esto es una prueba para verificar si esta correctamente configurado el SSH
+
+• Este es un repo de prueba para testear si la cuenta esta verificada o no, y si se puede subir con ssh.
